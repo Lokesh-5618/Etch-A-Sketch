@@ -1,0 +1,21 @@
+.gridelmt
+{
+    border: 1px solid black;
+
+    box-sizing: border-box;
+    
+}
+.gridcontainer
+{
+  display: flex;
+  background-color: white;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 640px;
+  margin-top: 100px;
+}
+.resbut
+{
+    margin: 0 auto;
+}
+
